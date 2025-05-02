@@ -11,7 +11,7 @@
     <img src="https://github.com/user-attachments/assets/c8017274-5b7f-4f52-a6a4-e6932b6b89af/>
   </a>
   <a href="mailto:kullanicimaili@gmail.com">
-    <img src="https://img.icons8.com/color/60/gmail-new.png" width="70" height="70" alt="Gmail" />
+    <img src="https://github.com/user-attachments/assets/d97ead56-7eab-4718-9ed6-0b4dc59a19bc/>
   </a>
   <a href="https://linkedin.com/in/kullaniciadiniz">
     <img src="https://img.icons8.com/color/60/linkedin.png" width="70" height="70" alt="LinkedIn" />

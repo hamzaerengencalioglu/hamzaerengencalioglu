@@ -8,16 +8,15 @@
 
 <p align="center">
   <a href="https://instagram.com/kullaniciadiniz">
-    <img src="IKON_URL" width="60" height="60" alt="Instagram" />
+    <img src="https://img.icons8.com/ios-filled/60/000000/instagram-new.png" width="60" height="60" alt="Instagram" />
   </a>
   <a href="mailto:kullanicimaili@gmail.com">
-    <img src="IKON_URL" width="60" height="60" alt="Gmail" />
+    <img src="https://img.icons8.com/ios-filled/60/000000/gmail-new.png" width="60" height="60" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/kullaniciadiniz">
-    <img src="IKON_URL" width="60" height="60" alt="LinkedIn" />
+    <img src="https://img.icons8.com/ios-filled/60/000000/linkedin.png" width="60" height="60" alt="LinkedIn" />
   </a>
 </p>
-
 
 ---
 

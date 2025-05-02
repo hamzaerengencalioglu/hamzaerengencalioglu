@@ -7,13 +7,14 @@
 </h1>
 
 <p align="center">
-    <a href="mailto:kullanicimaili@gmail.com">
-    <img height="72" width="72" src="https://github.com/user-attachments/assets/2e9d38a2-c235-414a-abdf-35436c39e68d" />
+  <a href="mailto:kullanicimaili@gmail.com">
+    <img height="65" width="65" style="object-fit: contain; padding: 2px;" src="https://github.com/user-attachments/assets/2e9d38a2-c235-414a-abdf-35436c39e68d" />
   </a>
   <a href="https://linkedin.com/in/kullaniciadiniz">
-    <img height="62" width="62" src="https://github.com/user-attachments/assets/46432e00-e0d7-4f9a-ae45-eecb304f7e9d" />
+    <img height="65" width="65" style="object-fit: contain; padding: 2px;" src="https://github.com/user-attachments/assets/46432e00-e0d7-4f9a-ae45-eecb304f7e9d" />
   </a>
 </p>
+
 
 ---
 

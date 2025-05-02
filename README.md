@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://instagram.com/kullaniciadiniz">
-    <img height="60" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" />
+    <img height="60" src="https://github.com/user-attachments/assets/2e9d38a2-c235-414a-abdf-35436c39e68d" />
   </a>
   <a href="mailto:kullanicimaili@gmail.com">
     <img height="60" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" />

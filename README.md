@@ -10,11 +10,11 @@
   <a href="https://www.linkedin.com/in/hamzaerengencalioglu/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
-  <a href="mailto:hamzaerengencalioglu@gmail.com">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/167003533-466f4086-9c0c-4781-85cc-c2a148a4365f.png" alt="Gmail Logo"/>
-  </a>
   <a href="https://www.instagram.com/halkalierenpasa/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  </a>
+  <a href="mailto:ornekmail@gmail.com">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166977503-9e0f6b4c-dfc6-4f04-b85c-226cf5946c46.png"/>
   </a>
 </p>
 

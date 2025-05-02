@@ -7,14 +7,17 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamzaerengencalioglu/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <a href="https://instagram.com/kullaniciadiniz">
+    <img height="50" src="https://img.icons8.com/color/48/instagram-new--v1.png" />
   </a>
-  <a href="https://www.instagram.com/halkalierenpasa/">
-    <img height="50" src="Instagram"/>
+  <a href="mailto:kullanicimaili@gmail.com">
+    <img height="50" src="https://img.icons8.com/color/48/gmail-new.png" />
   </a>
-
+  <a href="https://linkedin.com/in/kullaniciadiniz">
+    <img height="50" src="https://img.icons8.com/color/48/linkedin.png" />
+  </a>
 </p>
+
 
 ---
 

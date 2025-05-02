@@ -14,7 +14,7 @@
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
   </a>
   <a href="mailto:ornekmail@gmail.com">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166977503-9e0f6b4c-dfc6-4f04-b85c-226cf5946c46.png"/>
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon_%282020%29.svg"/>
   </a>
 </p>
 

@@ -10,7 +10,7 @@
   <a href="mailto:hamzaerengencalioglu@gmail.com">
     <img height="65" width="65" style="object-fit: contain; padding: 2px;" src="https://github.com/user-attachments/assets/2e9d38a2-c235-414a-abdf-35436c39e68d" />
   </a>
-  <a href="www.linkedin.com/in/hamza-eren-gençalioğlu-b3039a251">
+  <a href="https://www.linkedin.com/in/hamza-eren-gen%C3%A7alio%C4%9Flu-b3039a251/">
     <img height="65" width="65" style="object-fit: contain; padding: 4px;" src="https://github.com/user-attachments/assets/46432e00-e0d7-4f9a-ae45-eecb304f7e9d" />
   </a>
 </p>

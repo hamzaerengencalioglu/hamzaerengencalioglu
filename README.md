@@ -13,9 +13,6 @@
   <a href="https://linkedin.com/in/kullaniciadiniz">
     <img height="65" width="65" src="https://github.com/user-attachments/assets/46432e00-e0d7-4f9a-ae45-eecb304f7e9d" />
   </a>
-  <a href="https://instagram.com/kullaniciadiniz">
-    <img height="75" width="75" src="https://github.com/user-attachments/assets/fc2a0508-9a3d-43c3-8af7-dec5fb4e6f55" />
-  </a>
 </p>
 
 ---

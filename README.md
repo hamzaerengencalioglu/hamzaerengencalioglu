@@ -11,7 +11,7 @@
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
   <a href="mailto:hamzaerengencalioglu@gmail.com">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon_(2020).svg" alt="Gmail Logo"/>
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon_(2020).svg/512px-Gmail_Icon_(2020).svg.png" alt="Gmail Logo"/>
   </a>
   <a href="https://www.instagram.com/halkalierenpasa/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>

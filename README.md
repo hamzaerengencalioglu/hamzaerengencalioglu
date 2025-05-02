@@ -11,7 +11,7 @@
     <img src="https://github.com/user-attachments/assets/c8017274-5b7f-4f52-a6a4-e6932b6b89af/>
   </a>
   <a href="mailto:kullanicimaili@gmail.com">
-    <img src="https://github.com/user-attachments/assets/d97ead56-7eab-4718-9ed6-0b4dc59a19bc/>
+    <img height="75" width="75" src="https://github.com/user-attachments/assets/d97ead56-7eab-4718-9ed6-0b4dc59a19bc/>
   </a>
   <a href="https://linkedin.com/in/kullaniciadiniz">
     <img src="https://github.com/user-attachments/assets/10b2dc80-137e-4e14-8768-7f9c52a335c3" />

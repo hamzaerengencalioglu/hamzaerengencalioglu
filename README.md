@@ -13,7 +13,6 @@
   <a href="mailto:kullanicimaili@gmail.com">
     <img height="70" width="70" src="https://github.com/user-attachments/assets/2e9d38a2-c235-414a-abdf-35436c39e68d" />
   </a>
-  </a>
   <a href="https://linkedin.com/in/kullaniciadiniz">
     <img height="70" width="70" src="https://github.com/user-attachments/assets/46432e00-e0d7-4f9a-ae45-eecb304f7e9d" />
   </a>

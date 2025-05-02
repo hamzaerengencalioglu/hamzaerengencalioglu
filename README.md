@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://instagram.com/kullaniciadiniz">
-    <img src="https://github.com/user-attachments/assets/c8017274-5b7f-4f52-a6a4-e6932b6b89af/>
+    <img height="75" width="75" src="https://github.com/user-attachments/assets/fc2a0508-9a3d-43c3-8af7-dec5fb4e6f55" />
   </a>
   <a href="mailto:kullanicimaili@gmail.com">
-    <img height="75" width="75" src="https://github.com/user-attachments/assets/d97ead56-7eab-4718-9ed6-0b4dc59a19bc/>
+    <img height="70" width="70" src="https://github.com/user-attachments/assets/2e9d38a2-c235-414a-abdf-35436c39e68d" />
   </a>
   <a href="https://linkedin.com/in/kullaniciadiniz">
-    <img src="https://github.com/user-attachments/assets/10b2dc80-137e-4e14-8768-7f9c52a335c3" />
+    <img height="65" width="65" src="https://github.com/user-attachments/assets/46432e00-e0d7-4f9a-ae45-eecb304f7e9d" />
   </a>
 </p>
 

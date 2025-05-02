@@ -14,7 +14,7 @@
     <img height="50" src="https://img.icons8.com/color/48/gmail-new.png" />
   </a>
   <a href="https://linkedin.com/in/kullaniciadiniz">
-    <img height="50" src="https://img.icons8.com/color/48/linkedin.png" />
+    <img height="50" src="https://github.com/user-attachments/assets/fb02b664-b652-4119-aac1-495e0cd60cea" />
   </a>
 </p>
 

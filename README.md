@@ -8,15 +8,16 @@
 
 <p align="center">
   <a href="https://instagram.com/kullaniciadiniz">
-    <img height="50" src="https://github.com/user-attachments/assets/87c0701f-b098-4a1f-8268-1022e574342e" />
+    <img height="50" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" />
   </a>
   <a href="mailto:kullanicimaili@gmail.com">
-    <img height="60" src="https://github.com/user-attachments/assets/64daa0b0-9551-4161-b18b-51e9ed56c14b" />
+    <img height="50" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/kullaniciadiniz">
-    <img height="50" src="https://github.com/user-attachments/assets/fb02b664-b652-4119-aac1-495e0cd60cea" />
+    <img height="50" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
   </a>
 </p>
+
 
 
 ---

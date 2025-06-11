@@ -29,7 +29,7 @@
 
 ---
 
-<h2>🚀 &nbsp;Some Tools I Have Used And Learned</h2>
+<h2>🚀 &nbsp;Some Tools I Have Used</h2>
 <p align="left">
 
   <!-- Languages -->
